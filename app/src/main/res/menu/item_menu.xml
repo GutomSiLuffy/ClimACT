@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/nav_menu"
+        android:title="home"
+        android:icon="@drawable/home"/>
+
+    <item android:id="@+id/nav_current"
+        android:title="sdddd"
+        android:icon="@drawable/current"/>
+
+    <item android:id="@+id/nav_future"
+        android:title="swd"
+        android:icon="@drawable/future"/>
+
+    <item android:id="@+id/nav_statistic"
+        android:title="ded"
+        android:icon="@drawable/stats"/>
+
+
+
+
+</menu>
